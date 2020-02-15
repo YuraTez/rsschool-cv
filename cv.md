@@ -5,3 +5,8 @@ Front End Developer
 - Email: yuratezher@mail.ru  
 # Work Experience
 I want to work in a good company, constantly equal and learn new technologies.
+# Skills
+- Html
+- Css
+- JavaScript
+- bootstrap 4
