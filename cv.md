@@ -10,3 +10,9 @@ I want to work in a good company, constantly equal and learn new technologies.
 - Css
 - JavaScript
 - bootstrap 4
+# Experience 
+I have no work experience. But you can see my training projects on Github.
+# Education
+Started to study in rs-skhool
+# English  
+A1
