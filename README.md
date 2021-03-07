@@ -1,2 +1,2 @@
-# https://YuraTez.github.io/rsschool-cv/cv
-#  Задание на проверку Cross-Check: Работа [https://YuraTez.github.io/rsschool-cv/]
+#  [Разметка markdown](https://YuraTez.github.io/rsschool-cv/cv)
+#  Задание на проверку Cross-Check:  [Работа](https://YuraTez.github.io/rsschool-cv/)
