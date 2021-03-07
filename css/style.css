@@ -1,0 +1,92 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: cursive;
+}
+a{
+  text-decoration: none;
+}
+ul li{
+  list-style: none;
+}
+.wrapper{
+  max-width: 1200px;
+  margin: 0 auto 30px;
+  border-bottom: 1px solid silver;
+
+}
+.header__title{
+  text-align: center;
+  padding: 20px 0;
+  font-size: 32px;
+}
+.personal-date .wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.personal__user{
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.personal__img{
+  width: 300px;
+  margin: 0 auto 30px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.contacts__title{
+  font-size: 28px;
+  text-align: center;
+}
+.contacts___list{
+  margin: 30px;
+}
+.contacts___list li{
+  padding: 10px 0;
+}
+.experience__title{
+  font-size: 28px;
+  text-align: center;
+}
+.experience__description{
+  padding: 30px 0 30px 30px;
+}
+.skills__title{
+  font-size: 28px;
+  text-align: center;
+}
+.skills__list{
+  margin: 30px;
+}
+.skills__list li {
+  padding: 5px 0;
+}
+.education__title{
+  font-size: 28px;
+  text-align: center;
+}
+.education__description{
+  padding: 30px 0 30px 30px;
+}
+.footer .wrapper{
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  border: none;
+}
+.github{
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+  font-size: 26px;
+}
+.github a{
+  color: #b42611;
+}
+.logo-rs svg{
+  width: 100px;
+  margin-right: 30px;
+}
