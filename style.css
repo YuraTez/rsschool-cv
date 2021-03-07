@@ -1,0 +1,48 @@
+body {
+    margin: 0 auto;
+    max-width: 1024px;
+    background: #F5F5CD;
+    box-shadow: 0 1px 2px #cccccc, inset 0 1px 0 #ffffff;
+    padding: 0 80px;
+    font-family: "Helvetica", "Tahoma", sans-serif;
+}
+
+.profile-cv {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.photo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.block {
+    border-bottom: 1px solid silver;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active {
+    color: red;
+}
+
+a:hover {
+    background: #5488af;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+}
